@@ -1,0 +1,2 @@
+# logeasy-
+logeasy ai dashboard
